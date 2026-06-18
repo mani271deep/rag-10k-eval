@@ -1,11 +1,28 @@
-"""Streamlit dashboard for the 10-K RAG pipeline."""
+"""Hugging Face Spaces entry point — in-process Streamlit RAG demo.
+
+Imports the pipeline directly (no FastAPI/HTTP layer) so the whole demo
+runs in a single Space. The FastAPI backend (app.py) remains in the repo
+as the standalone API implementation.
+"""
 import os
-import requests
+import json
 import streamlit as st
 
-API_URL = os.getenv("API_URL", "http://127.0.0.1:8000")
-
+# set_page_config must be the FIRST Streamlit command in the script.
 st.set_page_config(page_title="10-K RAG", page_icon="📑", layout="wide")
+
+# Build the index on first launch if it is not present (HF Spaces
+# does not store the prebuilt binary; it is regenerated from chunks.jsonl).
+@st.cache_resource
+def _ensure_index():
+    if not os.path.exists("data/index.faiss"):
+        import build_index
+        build_index.main()
+    return True
+
+_ensure_index()
+
+from generator import answer
 
 st.title("📑 SEC 10-K RAG with Evaluation")
 st.caption(
@@ -19,7 +36,6 @@ EXAMPLES = {
     "Unanswerable": "What is Apple's cryptocurrency mining strategy?",
 }
 
-# --- session state for the query box ---
 if "query" not in st.session_state:
     st.session_state.query = ""
 
@@ -39,22 +55,16 @@ k = st.slider("Passages to retrieve (k)", 3, 10, 5)
 if st.button("Ask", type="primary") and query.strip():
     with st.spinner("Retrieving and generating..."):
         try:
-            resp = requests.post(
-                f"{API_URL}/query",
-                json={"query": query, "k": k},
-                timeout=60,
-            )
-            resp.raise_for_status()
-            data = resp.json()
+            out = answer(query, k=k)
         except Exception as e:
-            st.error(f"API error: {e}")
+            st.error(f"Error: {e}")
             st.stop()
 
     st.markdown("### Answer")
-    st.write(data["answer"])
+    st.write(out["answer"])
 
-    st.markdown(f"### Retrieved passages ({len(data['chunks'])})")
-    for i, c in enumerate(data["chunks"], 1):
+    st.markdown(f"### Retrieved passages ({len(out['chunks'])})")
+    for i, c in enumerate(out["chunks"], 1):
         header = (f"{i}. {c['company'].title()} — {c['section_label']} "
                   f"(score {c['score']:.3f})")
         with st.expander(header):
@@ -63,51 +73,48 @@ if st.button("Ask", type="primary") and query.strip():
 
 st.divider()
 
-# --- Evaluation section ---
 st.subheader("📊 Evaluation results")
-try:
-    ev = requests.get(f"{API_URL}/eval", timeout=30).json()
-except Exception as e:
-    ev = {"available": False}
-    st.warning(f"Could not load eval results: {e}")
 
-if ev.get("available"):
+RESULTS_PATH = os.path.join("eval", "results.json")
+if os.path.exists(RESULTS_PATH):
+    results = json.load(open(RESULTS_PATH))
+    answerable = [r for r in results if r["answerable"]]
+    unanswerable = [r for r in results if not r["answerable"]]
+    hit = sum(r["hit@k"] for r in answerable) / len(answerable)
+    mrr = sum(r["reciprocal_rank"] for r in answerable) / len(answerable)
+    faith = sum(r["faithfulness"] for r in results) / len(results)
+    correct = sum(r["correctness"] for r in results) / len(results)
+    abstain = sum(1 for r in unanswerable if r["correctness"] >= 4)
+
     c1, c2, c3, c4, c5 = st.columns(5)
-    c1.metric("Hit@k", f"{ev['hit_at_k']:.0%}")
-    c2.metric("MRR", f"{ev['mrr']:.3f}")
-    c3.metric("Faithfulness", f"{ev['faithfulness']}/5")
-    c4.metric("Correctness", f"{ev['correctness']}/5")
-    c5.metric("Abstention", ev["abstention"])
+    c1.metric("Hit@k", f"{hit:.0%}")
+    c2.metric("MRR", f"{mrr:.3f}")
+    c3.metric("Faithfulness", f"{faith:.2f}/5")
+    c4.metric("Correctness", f"{correct:.2f}/5")
+    c5.metric("Abstention", f"{abstain}/{len(unanswerable)}")
 
     st.caption(
-        f"Evaluated on {ev['n_questions']} curated ground-truth questions "
-        "(single-hop, cross-company, and unanswerable). Retrieval quality "
+        f"Evaluated on {len(results)} curated ground-truth questions "
+        "(single-hop, cross-company, unanswerable). Retrieval quality "
         "(Hit@k, MRR) is measured separately from answer quality "
         "(LLM-as-judge faithfulness & correctness, gpt-4o)."
     )
 
     with st.expander("Per-question results"):
-        rows = []
-        for r in ev["results"]:
-            rows.append({
-                "id": r["id"],
-                "type": r["type"],
-                "hit@k": r["hit@k"],
-                "rr": r["reciprocal_rank"],
-                "faith": r["faithfulness"],
-                "correct": r["correctness"],
-                "question": r["question"],
-            })
+        rows = [{
+            "id": r["id"], "type": r["type"], "hit@k": r["hit@k"],
+            "rr": r["reciprocal_rank"], "faith": r["faithfulness"],
+            "correct": r["correctness"], "question": r["question"],
+        } for r in results]
         st.dataframe(rows, use_container_width=True, hide_index=True)
 
     st.info(
         "**Documented failure (sh05):** For *'What was Walmart's total revenue "
-        "in fiscal 2023?'* retrieval succeeded (the correct passage was "
-        "returned at rank 1), but the generator reported net sales "
-        "($605.9B) instead of total revenue ($611.3B) — both figures appear "
-        "side-by-side in the same passage. This is a generation-side error, "
-        "not a retrieval failure, which is exactly the distinction the "
-        "two-dimensional eval is designed to expose."
+        "in fiscal 2023?'* retrieval succeeded (correct passage at rank 1), but "
+        "the generator reported net sales ($605.9B) instead of total revenue "
+        "($611.3B) — both figures appear side-by-side in the same passage. A "
+        "generation-side error, not a retrieval failure: exactly the distinction "
+        "the two-dimensional eval is designed to expose."
     )
 else:
     st.write("Eval results not available.")

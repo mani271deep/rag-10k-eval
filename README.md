@@ -5,7 +5,7 @@ colorFrom: blue
 colorTo: indigo
 sdk: streamlit
 sdk_version: 1.40.2
-app_file: hf_app.py
+app_file: streamlit_app.py
 pinned: false
 license: mit
 short_description: RAG over SEC 10-K filings with evaluation
