@@ -4,5 +4,4 @@ __pycache__/
 *.pyc
 .DS_Store
 data/raw/
-*.faiss
 .ipynb_checkpoints/
