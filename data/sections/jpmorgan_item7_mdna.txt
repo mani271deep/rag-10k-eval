@@ -1,0 +1,284 @@
+The following is Management’s discussion and analysis of the financial condition and results of operations (“MD&A”) of JPMorgan Chase for the year ended December 31, 2023. The MD&A is included in both JPMorgan Chase’s Annual Report for the year ended December 31, 2023 (“Annual Report”) and its Annual Report on Form 10-K for the year ended December 31, 2023 (“2023 Form 10-K” or “Form 10-K”) filed with the Securities and Exchange Commission (“SEC”). Refer to the Glossary of terms and acronyms on pages 315-321 for definitions of terms and acronyms used throughout the Annual Report and the 2023 Form 10-K.
+This Form 10-K contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on the current beliefs and expectations of JPMorgan Chase’s management, speak only as of the date of this Form 10-K and are subject to significant risks and uncertainties. Refer to Forward-looking Statements on page 161 and Part 1, Item 1A: Risk factors in this Form 10-K on pages 9-33 for a discussion of certain of those risks and uncertainties and the factors that could cause JPMorgan Chase’s actual results to differ materially because of those risks and uncertainties. There is no assurance that actual results will be in line with any outlook information set forth herein, and the Firm does not undertake to update any forward-looking statements.
+INTRODUCTION
+JPMorgan Chase & Co. (NYSE: JPM), a financial holding company incorporated under Delaware law in 1968, is a leading financial services firm based in the United States of America (“U.S.”), with operations worldwide. JPMorgan Chase had $3.9 trillion in assets and $327.9 billion in stockholders’ equity as of December 31, 2023.
+The Firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management. Under the J.P. Morgan and Chase brands, the Firm serves millions of customers, predominantly in the U.S., and many of the world’s most prominent corporate, institutional and government clients globally.
+JPMorgan Chase’s principal bank subsidiary is JPMorgan Chase Bank, National Association (“JPMorgan Chase Bank, N.A.”), a national banking association with U.S. branches in 48 states and Washington, D.C. JPMorgan Chase’s principal non-bank subsidiary is J.P. Morgan Securities LLC (“J.P. Morgan Securities”), a U.S. broker-dealer. The bank and non-bank subsidiaries of JPMorgan Chase operate nationally as well as through overseas branches and subsidiaries, representative offices and subsidiary foreign banks. The Firm’s principal operating subsidiaries outside the U.S
+.
+are J.P. Morgan Securities plc and J.P. Morgan SE (“JPMSE”), which are subsidiaries of JPMorgan Chase Bank, N.A. and are based in the United Kingdom (“U.K.”) and Germany, respectively.
+For management reporting purposes, the Firm’s activities are organized into four major reportable business segments, as well as a Corporate segment. The Firm’s consumer business is the Consumer & Community Banking (“CCB”) segment. The Firm’s wholesale businesses are the Corporate & Investment Bank (“CIB”), Commercial Banking (“CB”), and Asset & Wealth Management (“AWM”) segments. Refer to Business S
+egment Results on pages 65–85, and Note 32 for a description of the Firm’s business segments, and the products and services they provide to their respective client bases. On May 1, 2023, JPMorgan Chase acquired certain assets and assumed certain liabilities of First Republic Bank (the “First Republic acquisition”) from the Federal Deposit Insurance Corporation (“FDIC”).
+All references in this Form 10-K to “excluding First Republic,” “including First Republic,” “associated with First Republic” or “attributable to First Republic” refer to excluding or including the relevant effects of the First Republic acquisition, as well as subsequent related business and activities, as applicable. Refer to Note 34 for additional information.
+The Firm’s website is www.jpmorganchase.com. JPMorgan Chase makes available on its website, free of charge, annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K pursuant to Section 13(a) or Section 15(d) of the Securities Exchange Act of 1934, as soon as reasonably practicable after it electronically files or furnishes such material to the U.S. Securities and Exchange Commission (the “SEC”) at www.sec.gov. JPMorgan Chase makes new and important information about the Firm available on its website at https://www.jpmorganchase.com, including on the Investor Relations section of its website at https://www.jpmorganchase.com/ir.
+Information on the Firm's web
+site, including documents on the website that are referenced in this Form 10-K, is not incorporated by reference into this 2023 For
+m 10-K or the Firm’s other filings with the SEC.
+48
+JPMorgan Chase & Co./2023 Form 10-K
+EXECUTIVE OVERVIEW
+This executive overview of the MD&A highlights selected information and does not contain all of the information that is important to readers of the Firm’s 2023 Form 10-K. For a complete description of the trends and uncertainties, as well as the risks and critical accounting estimates affecting the Firm, the 2023 Form 10-K should be read in its entirety.
+Financial performance of JPMorgan Chase
+Year ended December 31,
+(in millions, except per share data and ratios)
+2023
+2022
+Change
+Selected income statement data
+Noninterest revenue
+$
+68,837
+$
+61,985
+11%
+Net interest income
+89,267
+66,710
+34
+Total net revenue
+158,104
+128,695
+23
+Total noninterest expense
+87,172
+76,140
+14
+Pre-provision profit
+70,932
+52,555
+35
+Provision for credit losses
+9,320
+6,389
+46
+Net income
+49,552
+37,676
+32
+Diluted earnings per share
+16.23
+12.09
+34
+Selected ratios and metrics
+Return on common equity
+17
+%
+14
+%
+Return on tangible common equity
+21
+18
+Book value per share
+$
+104.45
+$
+90.29
+16
+Tangible book value per share
+86.08
+73.12
+18
+Capital ratios
+(a)(b)
+CET1 capital
+15.0
+%
+13.2
+%
+Tier 1 capital
+16.6
+14.9
+Total capital
+18.5
+16.8
+Memo:
+NII excluding Markets
+(c)
+$
+90,041
+$
+62,355
+44
+NIR excluding Markets
+(c)
+44,533
+40,938
+9
+Markets
+(c)
+27,792
+28,984
+(4)
+Total net revenue - managed basis
+$
+162,366
+$
+132,277
+23
+As of and for the year ended December 31, 2023, the results of the Firm include the impact of First Republic. Refer to page 67 and Note 34 for additional information.
+(a) The ratios reflect the CECL capital transition provisions. Refer to Note 27 for additional information.
+(b) Reflects the Firm’s ratios under the Basel III Standardized approach. Refer to Capital Risk Management on pages 91-101 for additional information.
+(c) NII and NIR refer to net interest income and noninterest revenue, respectively. Markets consists of CIB's Fixed Income Markets and Equity Markets businesses.
+Comparisons noted in the sections below are for the full year of 2023 versus the full year of 2022, unless otherwise specified.
+Firmwide overview
+JPMorgan Chase reported net income of $49.6 billion for 2023, up 32%, earnings per share of $16.23, ROE of 17% and ROTCE of 21%.
+•
+Total net revenue
+was $158.1 billion, up 23%, reflecting:
+–
+Net interest income
+(“NII”) of $89.3 billion, up 34%, driven by higher rates, the impact of First Republic, and higher revolving balances in Card Services, partially offset by lower Markets net interest income and lower average deposit balances. NII excluding Markets was $90.0 billion, up 44%.
+–
+Noninterest revenue
+(“NIR”) was $68.8 billion, up 11%, driven by the impact of First Republic, including the $2.8 billion estimated bargain purchase gain, higher Markets noninterest revenue, and higher asset management fees, partially offset by the absence of the gain on the sale of Visa B shares in the prior year, higher net securities losses in Treasury and CIO, and lower auto operating lease income.
+•
+Noninterest expense
+was $87.2 billion, up 14%, predominantly driven by higher compensation expense, reflecting an increase in employees, primarily in technology and front office, as well as wage inflation. The increase in expense also includes the $2.9 billion FDIC special assessment and costs associated with the First Republic acquisition.
+•
+The
+provision for credit losses
+was $9.3 billion, reflecting $6.2 billion of net charge-offs and a net addition to the allowance for credit losses of $3.1 billion. Net charge-offs increased $3.3 billion, predominantly driven by Card Services, and to a lesser extent single name exposures in wholesale. The net addition to the allowance for credit losses included:
+–
+a net addition of $1.3 billion in
+consumer
+, predominantly driven by CCB, reflecting $1.4 billion in Card Services driven by loan growth, including an increase in revolving balances, partially offset by a net reduction of $200 million in Home Lending, and
+–
+a net addition of $657 million in
+wholesale
+, driven by net downgrade activity and a deterioration in the outlook for commercial real estate in CB.
+The net addition also included $1.2 billion to establish the allowance for First Republic loans and lending-related commitments in the second quarter of 2023.
+The provision in the prior year included a $3.5 billion net addition to the allowance for credit losses and net charge-offs of $2.9 billion.
+•
+The total
+allowance for credit losses
+was $24.8 billion at December 31, 2023. The Firm had an allowance for loan losses to retained loans coverage ratio of 1.75%, compared with 1.81% in the prior year.
+•
+The Firm’s
+nonperforming assets
+totaled $7.6 billion at December 31, 2023, up 5%, predominantly driven by wholesale nonaccrual loans, which reflected the impact of downgrades. Refer to Wholesale Credit Portfolio and Consumer Credit Portfolio on pages 120–130 and pages 114–119, respectively, for additional information.
+JPMorgan Chase & Co./2023 Form 10-K
+49
+•
+Firmwide
+average loans
+of $1.2 trillion were up 13%, predominantly driven by higher loans in CCB and CB, primarily as a result of First Republic.
+•
+Firmwide
+average deposits
+of $2.4 trillion were down 4%, driven by
+–
+continued migration into higher-yielding investments in AWM, the impact of higher customer spending in CCB, continued deposit attrition in CB, and a net decline in CIB, which included actions taken to reduce certain deposits,
+partially offset by
+–
+the increase in deposits associated with First Republic, and growth related to the Firm’s international consumer initiatives in Corporate.
+Refer to Liquidity Risk Management on pages 102–109 for additional information.
+Selected capital and other metrics
+•
+CET1 capital
+was $251 billion, and the Standardized and Advanced CET1 ratios were both 15.0%.
+•
+SLR
+was 6.1%.
+•
+TBVPS
+grew 18%, ending 2023 at $86.08.
+•
+As of December 31, 2023, the Firm had eligible end-of-period
+High Quality Liquid Assets
+(“HQLA”) of approximately $798 billion and unencumbered
+marketable securities
+with a fair value of approximately $649 billion, resulting in approximately $1.4 trillion of liquidity sources. Refer to Liquidity Risk Management on pages 102–109 for additional information.
+Refer to Consolidated Results of Operations and Consolidated Balance Sheets Analysis on pages 54–57 and pages 58–60, respectively, for a further discussion of the Firm's results, including the provision for credit losses; and Business Segment Results on page 67 and Note 34 for additional information on the First Republic acquisition.
+Pre-provision profit, ROTCE, TCE, TBVPS, NII and NIR excluding Markets, and total net revenue on a managed basis are non-GAAP financial measures. Refer to Explanation and Reconciliation of the Firm’s Use of Non-GAAP Financial Measures on pages 62–64 for a further discussion of each of these measures.
+50
+JPMorgan Chase & Co./2023 Form 10-K
+Business segment highlights
+Selected business metrics for each of the Firm’s four lines of business (“LOB”) are presented below for the full year of 2023, and include the impact of First Republic, unless otherwise specified.
+CCB
+ROE 38%
+•
+Average deposits down 3%; client investment assets up 47%, or up 25% excluding First Republic
+•
+Average loans up 20%, or up 6% excluding First Republic; Card Services net charge-off rate of 2.45%
+•
+Debit and credit card sales volume
+(a)
+up 8%
+•
+Active mobile customers
+(b)
+up 8%
+CIB
+ROE 13%
+•
+#1 ranking for Global Investment Banking fees with 8.8% wallet share for the year
+•
+Total Markets revenue of $27.8 billion, down 4%, with Fixed Income Markets up 1% and Equity Markets down 13%
+CB
+ROE 20%
+•
+Gross Investment Banking and Markets revenue of $3.4 billion, up 14%
+•
+Average loans up 20%, or up 8% excluding First Republic; average deposits down 9%
+AWM
+ROE 31%
+•
+Assets under management (“AUM”) of $3.4 trillion, up 24%
+•
+Average loans up 2%, or down 2% excluding First Republic; average deposits down 17%
+(a) Excludes Commercial Card.
+(b) Users of all mobile platforms who have logged in within the past 90 days. As of December 31, 2023, excludes First Republic.
+Refer to the Business Segment Results on pages 65–85 for a detailed discussion of results by business segment.
+Credit provided and capital raised
+JPMorgan Chase continues to support consumers, businesses and communities around the globe. The Firm provided new and renewed credit and raised capital for wholesale and consumer clients during 2023, consisting of:
+$2.3 trillion
+Total credit provided and capital raised (including loans and commitments)
+$239
+billion
+Credit for consumers
+$36
+billion
+Credit for U.S. small businesses
+$1.0 trillion
+Credit for corporations
+$915 billion
+Capital for corporate clients and non-U.S. government entities
+$47
+billion
+Credit and capital for nonprofit and U.S. government entities
+(a)
+(a)
+Includes states, municipalities, hospitals and universities.
+JPMorgan Chase & Co./2023 Form 10-K
+51
+Recent events
+•
+On February 6, 2024, JPMorgan Chase announced that it plans to open more than 500 new branches, renovate approximately 1,700 locations and hire 3,500 employees over the next three years.
+•
+On January 25, 2024, JPMorgan Chase announced new responsibilities for several key executives:
+–
+Jennifer Piepszak, formerly the Co-Chief Executive Officer (“CEO”) of CCB, and Troy Rohrbaugh, formerly the Co-head of Markets and Securities Services, became Co-CEOs of the expanded Commercial & Investment Bank, which brings together the Firm’s major wholesale businesses consisting of Global Investment Banking, Commercial Banking and Corporate Banking, as well as Markets, Securities Services and Global Payments.
+–
+Marianne Lake, the former Co-CEO of CCB, became the sole CEO of that business.
+–
+James Dimon, Chairman and CEO, and Daniel Pinto, President and Chief Operating Officer, will continue to jointly manage the company, with Mr. Pinto focusing on the execution of the Firm’s LOB priorities.
+As a result of these organizational changes, the Firm will be reorganizing its business segments to reflect the manner in which the segments will be managed. The reorganization of the business segments is expected to be effective in the second quarter of 2024.
+•
+On January 16, 2024, JPMorgan Chase announced that Mark Weinberger, 62, had been elected to its Board of Directors, effective immediately. He will also serve as a member of the Board’s Audit Committee. Mr. Weinberger served as the Global Chairman and Chief Executive Officer of Ernst & Young from 2013 to 2019.
+Outlook
+These current expectations are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such forward-looking statements are based on the current beliefs and expectations of JPMorgan Chase’s management, speak only as of the date of this Form 10-K, and are subject to significant risks and uncertainties. Refer to Forward-Looking Statements on page 161 and Part I, Item 1A, Risk Factors section on pages 9-33 of this Form 10-K for a further discussion of certain of those risks and uncertainties and the other factors that could cause JPMorgan Chase’s actual results to differ materially because of those risks and uncertainties. There is no assurance that actual results in 2024 will be in line with the outlook information set forth below, and the Firm does not undertake to update any forward-looking statements.
+JPMorgan Chase’s current outlook for full-year 2024 should be viewed against the backdrop of the global and U.S. economies, financial markets activity, the geopolitical environment, the competitive environment, client and customer activity levels, and regulatory and legislative developments in the U.S. and other countries where the Firm does business. Each of these factors will affect the performance of the Firm. The Firm will continue to make appropriate adjustments to its businesses and operations in response to ongoing developments in the business, economic, regulatory and legal environments in which it operates.
+Full-year 2024
+•
+Management expects net interest income to be approximately $90 billion, market dependent.
+•
+Management expects net interest income excluding Markets to be approximately $88 billion, market dependent.
+•
+Management expects adjusted expense to be approximately $90 billion, market dependent.
+•
+Management expects the net charge-off rate in Card Services to be less than 3.50%.
+Net interest income excluding Markets and adjusted expense are non-GAAP financial measures. Refer to Explanation and Reconciliation of the Firm’s Use of Non-GAAP Financial Measures on pages 62–64.
+52
+JPMorgan Chase & Co./2023 Form 10-K
+Business Developments
+First Republic acquisition
+On May 1, 2023, JPMorgan Chase acquired certain assets and assumed certain liabilities of First Republic Bank (the "First Republic acquisition") from the Federal Deposit Insurance Corporation (“FDIC”), as receiver.

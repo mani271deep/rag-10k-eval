@@ -1,0 +1,268 @@
+Item 1. Business.
+Overview
+JPMorgan Chase & Co. (“JPMorgan Chase” or the “Firm”, NYSE: JPM), a financial holding company incorporated under Delaware law in 1968, is a leading financial services firm based in the United States of America (“U.S.”), with operations worldwide. JPMorgan Chase had $3.9 trillion in assets and $327.9 billion in stockholders’ equity as of December 31, 2023. The Firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management. Under the J.P. Morgan and Chase brands, the Firm serves millions of customers, predominantly in the U.S., and many of the world’s most prominent corporate, institutional and government clients globally.
+JPMorgan Chase’s principal bank subsidiary is JPMorgan Chase Bank, National Association (“JPMorgan Chase Bank, N.A.”), a national banking association with U.S. branches in 48 states and Washington, D.C. JPMorgan Chase’s principal non-bank subsidiary is J.P. Morgan Securities LLC (“J.P. Morgan Securities”), a U.S. broker-dealer. The bank and non-bank subsidiaries of JPMorgan Chase operate nationally as well as through overseas branches and subsidiaries, representative offices and subsidiary foreign banks. The Firm’s principal operating subsidiaries outside the U.S. are J.P. Morgan Securities plc and J.P. Morgan SE (“JPMSE”), which are subsidiaries of JPMorgan Chase Bank, N.A. and are based in the United Kingdom (“U.K.”) and Germany, respectively.
+The Firm’s website is www.jpmorganchase.com. JPMorgan Chase makes available on its website, free of charge, annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K pursuant to Section 13(a) or Section 15(d) of the Securities Exchange Act of 1934, as soon as reasonably practicable after it electronically files or furnishes such material to the U.S. Securities and Exchange Commission (the “SEC”) at www.sec.gov. JPMorgan Chase makes new and important information about the Firm available on its website at https://www.jpmorganchase.com, including on the Investor Relations section of its website at https://www.jpmorganchase.com/ir.
+Information on the Firm's web
+site, including documents on the website that are referenced in this Form 10-K, is not incorporated by reference into this Annual Report on Form 10-K for the year ended December 31, 2023 (“2023 Form 10-K” or “Form 10-K”) or the Firm’s other filings with the SEC. The Firm has adopted, and posted on its website, a Code of Conduct for all employees of the Firm and a Code of Ethics for its Chairman and Chief Executive Officer, Chief Financial Officer, Principal Accounting Officer and all other professionals of the Firm worldwide serving in a finance, accounting, treasury, tax or investor relations role. The Code of Ethics is also available in print upon request to the Firm’s Investor Relations team. Within the time period required by the SEC, JPMorgan Chase will post on its website any amendment to the Code of Ethics and any waiver applicable to a director or executive officer.
+Business segments
+For management reporting purposes, JPMorgan Chase’s activities are organized into four major reportable business segments, as well as a Corporate segment. The Firm’s consumer business is the Consumer & Community Banking (“CCB”) segment. The Firm’s wholesale businesses are the Corporate & Investment Bank (“CIB”), Commercial Banking (“CB”), and Asset & Wealth Management (“AWM”) segments.
+A description of the Firm’s business segments and the products and services they provide to their respective client bases is provided in the “Business segment results” section of Management’s discussion and analysis of financial condition and results of operations (“Management’s discussion and analysis” or “MD&A”), beginning on page 48 and in Note 32.
+On May 1, 2023, JPMorgan Chase acquired certain assets and assumed certain liabilities of First Republic Bank (the “First Republic acquisition”) from the Federal Deposit Insurance Corporation (“FDIC”). Refer to Note 34 for additional information.
+Competition
+JPMorgan Chase and its subsidiaries and affiliates operate in highly competitive environments. Competitors include other banks, brokerage firms, investment banking companies, merchant banks, hedge funds, commodity trading companies, private equity firms, insurance companies, mutual fund companies, investment managers, credit card companies, mortgage banking companies, trust companies, securities processing companies, automobile financing companies, leasing companies, e-commerce and other internet-based companies, financial technology companies, and other companies engaged in providing similar as well as new products and services. The Firm’s businesses generally compete on the basis of the quality and variety of the Firm’s products and services, transaction execution, innovation, reputation and price. Competition also varies based on the types of clients, customers, industries and geographies served. With respect to some of its geographies and products, JPMorgan Chase competes globally; with respect to others, the Firm competes on a national or regional basis. New competitors in the financial services industry continue to emerge, including firms that offer products and services solely through the internet and non-financial companies that offer products and services that disintermediate traditional banking products and services offered by financial services firms such as JPMorgan Chase.
+1
+Part I
+Human capital
+JPMorgan Chase believes that its long-term growth and success depend on its ability to attract, develop and retain a high-performing and diverse workforce, with inclusion and accessibility as key components of the way the Firm does business. The information provided below relates to JPMorgan Chase’s full-time and part-time employees and does not include the Firm’s contractors.
+Global workforce
+As of
+December 31, 2023
+, JPMorgan Chase had 309,926 employees globally, an increase of 16,203 employees from the prior year. The increase was primarily attributable to growth in front office, operations and technology, as well as the impact of the First Republic acquisition. The Firm’s employees are located in 65 countries, with 60% of the Firm’s employees located in the U.S. The following table presents the distribution of the Firm’s global workforce by region and by line of business (“LOB”) and Corporate as of
+December 31, 2023
+:
+Employee Breakdown by Region
+Employee Breakdown by LOB and Corporate
+Region
+Employees
+LOB
+Employees
+North America
+186,751
+CCB
+141,640
+Asia-Pacific
+88,406
+CIB
+74,404
+Europe/Middle East/Africa
+29,583
+CB
+17,867
+Latin America/Caribbean
+5,186
+AWM
+28,485
+Total Firm
+309,926
+Corporate
+47,530
+Total Firm
+309,926
+Diversity, equity and inclusion
+The following table presents information based on voluntary self-identifications by the Firm’s employees and members of the Board of Directors, as of
+December 31, 2023
+. Information on race/ethnicity of employees is categorized based on Equal Employment Opportunity (“EEO”) classifications and is presented for U.S. employees who self-identified, and information on gender is presented for global employees who self-identified. Information on race/ethnicity and gender for members of the Operating Committee and the Board of Directors reflects all such members. Information on LGBTQ+ and veteran statuses is based on all U.S. employees, and all members of the Operating Committee and the Board of Directors. Information on disability status is based on all U.S. employees and all members of the Operating Committee.
+December 31, 2023
+Total
+employees
+Senior level employees
+(e)
+Operating Committee
+Board of Directors
+(f)
+Race/Ethnicity
+(a)
+:
+White
+43
+%
+75
+%
+88
+%
+82
+%
+Hispanic
+21
+%
+6
+%
+6
+%
+—
+Asian
+19
+%
+13
+%
+6
+%
+—
+Black
+14
+%
+5
+%
+—
+18
+%
+Other
+(b)
+3
+%
+1
+%
+—
+—
+Gender
+(c)
+:
+Men
+51
+%
+72
+%
+59
+%
+55
+%
+Women
+49
+%
+28
+%
+41
+%
+45
+%
+LGBTQ+
+(d)
+4
+%
+3
+%
+6
+%
+—
+Military veterans
+(d)
+3
+%
+2
+%
+—
+9
+%
+People with disabilities
+(d)
+4
+%
+3
+%
+—
+—
+(g)
+(a)
+Based on EEO metrics. Presented as a percentage of the respective populations who self-identified race/ethnicity, which was 96% and 94% of the Firm’s total U.S.-based employees and U.S.-based senior level employees, respectively, and all members of the Operating Committee and the Board of Directors. Information for the Operating Committee includes one member who is based outside of the U.S.
+(b)
+Other includes American Indian or Alaskan Native, Native Hawaiian or Other Pacific Islander, and two or more races/ethnicities.
+(c)
+Presented as a percentage of the respective populations who self-identified gender, which was 98% of the Firm’s total global employees and 99% of the Firm’s global senior level employees, and all members of the Operating Committee and the Board of Directors.
+(d)
+Presented as a percentage of total U.S.-based employees, total U.S.-based senior level employees, all members of the Operating Committee, and all members of the Board of Directors, respectively.
+(e)
+Senior level employees represents employees with the titles of Managing Director and above.
+(f)
+Excludes Mark A. Weinberger, who was elected to the Firm’s Board of Directors, effective January 16, 2024.
+(g)
+The Firm did not request members of the Board of Directors to self-identify disability status.
+2
+Firm culture
+The foundations of JPMorgan Chase’s culture are its purpose, values and “Business Principles.” The “Business Principles” are guiding principles established by the Firm, which it believes are fundamental to the Firm’s success, and are represented by four central corporate tenets: exceptional client service; operational excellence; a commitment to integrity, fairness and responsibility; and cultivation of a great team and winning culture. The Firm maintains its focus on its culture of inclusion and respect, which is reinforced by its Code of Conduct and by increasing employee awareness, education, communication and training. An important part of these efforts includes the Firm’s Business Resource Groups, which are groups of employees who support JPMorgan Chase’s diversity, equity and inclusion strategies by leveraging the unique perspectives of their members. The Firm has global Diversity, Equity & Inclusion centers of excellence that lead the Firm’s strategy in supporting its commitments to create more equity and lasting impact in communities, and strengthen its inclusive culture.
+Attracting and retaining employees
+The goal of JPMorgan Chase’s recruitment efforts is to attract and hire talented individuals in all roles and at all career levels. The Firm strives to provide both external candidates and internal employees who are seeking a different role with challenging and stimulating career opportunities. These opportunities range from internship training programs for students to entry-level, management and executive careers. During 2023, approximately 60% of the Firm’s employment opportunities were filled by external candidates, with the remainder filled by existing employees. In addition, depending on business needs, and where appropriate, the Firm continues to employ hybrid work models which include a mix of on-site and remote work for certain roles.
+Attracting talent with diverse backgrounds and perspectives is an important area of focus throughout the Firm’s recruitment process. JPMorgan Chase sources talent by engaging in efforts aimed at building and fostering an inclusive work environment. The Firm’s global Diversity, Equity & Inclusion centers of excellence support its diversity, equity and inclusion strategies through initiatives such as career coaching and mentorship.
+JPMorgan Chase offers a competitive fellowship program that seeks to attract accomplished individuals who have taken a career break and wish to return to the workforce. In addition, and where appropriate, the Firm’s hiring practices focus on the skills of a job candidate rather than degrees held.
+Developing employees
+JPMorgan Chase supports the professional development and career growth of its employees. An onboarding training curriculum is required for new hires which covers, among other topics, compliance with the Firm’s Code of Conduct and information concerning Firm policies and standards, including those relating to cybersecurity. In addition, the Firm offers extensive training programs and educational resources to all employees covering a broad variety of topics such as leadership, change management, analytical thinking, culture and conduct, diversity, equity and inclusion, and risk and controls. Leadership Edge, the Firm’s global leadership and management development center of excellence, is focused on creating one Firmwide leadership culture.
+Compensation and benefits
+The Firm provides market-competitive compensation and benefits programs. JPMorgan Chase’s compensation philosophy includes guiding principles that drive compensation-related decisions across the Firm, and includes: pay-for-performance practices designed to attract and retain top talent; responsiveness and alignment with shareholder interests; and reinforcement of the Firm’s culture and Business Principles. The Firm follows a disciplined and balanced compensation framework, including the integration of risk, controls and conduct considerations. The Firm’s compensation review processes seek to ensure that the Firm’s employees are paid equitably and competitively for the work they do.
+JPMorgan Chase offers extensive benefits and wellness packages to support employees and their families, which vary depending on location and include healthcare coverage, retirement benefits, life and disability insurance, access to on-site health and wellness centers, counseling and resources related to mental health, competitive vacation and leave policies, child care access and support, tuition reimbursement programs, and financial coaching. In 2023, the Firm further enhanced its health and wellness benefits for U.S. employees, including updates to the U.S. medical plan, as well as expedited access to an expanded network of professionals for free mental health counseling and coaching.
+3
+Part I
+Supervision and regulation
+The Firm is subject to extensive and comprehensive regulation under U.S. federal and state laws, as well as the applicable laws of the jurisdictions outside the U.S. in which the Firm does business.
+Financial holding company:
+Consolidated supervision
+. JPMorgan Chase & Co. is a bank holding company (“BHC”) and a financial holding company (“FHC”) under U.S. federal law, and is subject to comprehensive consolidated supervision, regulation and examination by the Board of Governors of the Federal Reserve System (the “Federal Reserve”). The Federal Reserve acts as the supervisor of the consolidated operations of BHCs. Certain of JPMorgan Chase’s subsidiaries are also regulated directly by additional authorities based on the activities or licenses of those subsidiaries.
+JPMorgan Chase’s national bank subsidiary, JPMorgan Chase Bank, N.A., is supervised and regulated by the Office of the Comptroller of the Currency (“OCC”) and, with respect to certain matters, by the Federal Deposit Insurance Corporation (the “FDIC”).
+JPMorgan Chase’s U.S. broker-dealers are supervised and regulated by the Securities and Exchange Commission (“SEC”) and the Financial Industry Regulatory Authority (“FINRA”). Subsidiaries of the Firm that engage in certain futures-related and swaps-related activities are supervised and regulated by the Commodity Futures Trading Commission (“CFTC”). J.P. Morgan Securities plc holds a banking license in the U.K. and is regulated by the U.K. Prudential Regulation Authority (the “PRA”) and the U.K. Financial Conduct Authority (“FCA”).
+JPMSE is a Germany-based credit institution regulated by the European Central Bank (“ECB”) as well as the local regulators in each of the countries in which it operates. The Firm’s other non-U.S. subsidiaries are regulated by the banking, securities, prudential, payments and conduct regulatory authorities, as applicable, in the countries in which they operate.
+Permissible business activities
+. The Bank Holding Company Act restricts BHCs from engaging in business activities other than the business of banking and certain closely-related activities. FHCs are permitted to engage in a broader range of financial activities. The Federal Reserve has the authority to limit an FHC’s ability to conduct otherwise permissible activities if the FHC or any of its depository institution subsidiaries ceases to meet applicable eligibility requirements. The Federal Reserve may also impose corrective capital and/or managerial requirements on the FHC, and if deficiencies are persistent, may require divestiture of the FHC’s depository institutions. If any depository institution controlled by an FHC fails to maintain a satisfactory rating under the Community Reinvestment Act, the Federal Reserve must prohibit the FHC and its subsidiaries from engaging in any new activities other than
+those permissible for BHCs, or acquiring a company engaged in such activities.
+Capital and liquidity requirements
+. The Federal Reserve establishes capital, liquidity and leverage requirements for JPMorgan Chase that are generally consistent with the international Basel III capital and liquidity framework and evaluates the Firm’s compliance with those requirements. The OCC establishes similar requirements for JPMorgan Chase Bank, N.A.
+Certain of the Firm’s non-U.S. subsidiaries and branches are also subject to local capital and liquidity requirements.
+Banking supervisors globally continue to refine and enhance the Basel III capital framework for financial institutions.
+In July 2023, U.S. banking regulators released a proposal to amend the U.S. risk-based capital framework to incorporate certain elements of the revised international Basel III capital framework. The proposal would significantly revise risk-based capital requirements for banks with assets of $100 billion or more, including the Firm and other U.S. global systemically important banks ("GSIBs"). The proposed effective date is July 1, 2025 with a three-year transition period.
+In addition to the release of the U.S. proposal, the EU and U.K. regulators have also largely finalized the rules implementing their Basel III frameworks. The proposed effective dates are January 1, 2025, in the EU and July 1, 2025, in the U.K., with certain transitional arrangements applicable until 2030 and 2032, respectively.
+Stress tests
+. As a large BHC, JPMorgan Chase is subject to supervisory stress testing administered by the Federal Reserve as part of the Federal Reserve’s annual Comprehensive Capital Analysis and Review (“CCAR”) framework. The Firm must conduct annual company-run stress tests and must also submit an annual capital plan to the Federal Reserve, taking into account the results of separate stress tests designed by each of the Firm and the Federal Reserve. The Federal Reserve uses the results under the severely adverse scenario from its supervisory stress test to determine the Firm’s Stress Capital Buffer (“SCB”) requirement for the coming year, which forms part of the Firm’s applicable capital buffers. The Firm is required to file its annual CCAR submission on April 5, 2024. The Federal Reserve will notify the Firm of its indicative SCB requirement by June 30, 2024 and final SCB requirement by August 31, 2024. The Firm’s final SCB requirement will become effective on October 1, 2024. The OCC requires JPMorgan Chase Bank, N.A. to perform separate, similar stress tests annually. The Firm publishes each year the results of the annual stress tests for the Firm and JPMorgan Chase Bank, N.A. under the supervisory “severely adverse” scenarios provided by the Federal Reserve and the OCC.
+Refer to Capital Risk Management on pages 91-101 and Liquidity Risk Management on pages 102–109 for more information.
+4
+Enhanced prudential standards
+. As part of its mandate to identify and monitor risks to the financial stability of the U.S. posed by large banking organizations, the Financial Stability Oversight Council (“FSOC”) recommends prudential standards and reporting requirements to the Federal Reserve for systemically important financial institutions (“SIFIs”), such as JPMorgan Chase. The Federal Reserve has adopted several rules to implement those heightened prudential standards, including rules relating to risk management and corporate governance of subject BHCs. JPMorgan Chase is required under these rules to comply with enhanced liquidity and overall risk management standards, including oversight by the board of directors of risk management activities.
+Resolution and recovery
+. The Firm is required to maintain a comprehensive recovery plan, which is updated annually and which summarizes the actions that it would take to remain well-capitalized and well-funded in order to avoid failure in the case of an adverse event. In addition, JPMorgan Chase Bank, N.A. is required to prepare and submit a recovery plan as directed by the OCC. Under the Dodd-Frank Wall Street Reform and Consumer Protection Act (the “Dodd-Frank Act”), the Firm is required to submit periodically to the Federal Reserve and the FDIC a plan for resolution (a “resolution plan”) under the Bankruptcy Code in the event of material distress or failure. Under rules adopted by the FDIC and the Federal Reserve, the Firm’s resolution plan submissions under the Dodd-Frank Act alternate between “targeted” and “full” plans. The Firm’s most recent “full” resolution plan was filed on June 30, 2023, and the Firm's next "targeted" resolution plan is due to be filed on or before July 1, 2025. JPMorgan Chase Bank, N.A. is also required to prepare and submit a separate resolution plan pursuant to a separate FDIC regulation that requires FDIC-insured depository institutions over a certain asset threshold to prepare a resolution plan to facilitate their resolution by the FDIC under the Federal Deposit Insurance Act (the “IDI Resolution Rule”). JPMorgan Chase Bank, N.A. most recently filed a resolution plan pursuant to the IDI Resolution Rule on December 1, 2023.
+In August 2023, the FDIC released a proposal to revise the IDI Resolution Rule. For FDIC-insured depository institutions with $100 billion or more in total assets, such as JPMorgan Chase Bank, N.A., the proposal would revise the content requirements for resolution plan submissions, increase the frequency of resolution plan submissions to every two years (instead of the current three-year cycle) and require the filing of interim supplements in non-submission years. The proposal would also enhance how the FDIC assesses the credibility of resolution plan submissions, expand the FDIC’s expectations regarding bank engagement with FDIC staff and capabilities testing, and outline expectations regarding the FDIC’s review and enforcement of compliance with the IDI Rule.
+Certain of the Firm’s non-U.S. subsidiaries and branches are also subject to local resolution and recovery planning requirements.
+Orderly liquidation authority
+. Certain financial companies, including JPMorgan Chase and certain of its subsidiaries, can also be subjected to resolution under the “orderly liquidation authority” rather than under the Bankruptcy Code. In order to invoke the orderly liquidation authority, the U.S. Treasury Secretary, in consultation with the President of the United States, must first make certain determinations concerning extraordinary financial distress and systemic risk, and action must be recommended by the FDIC and the Federal Reserve. Absent such actions, the Firm, as a BHC, would remain subject to resolution under the Bankruptcy Code. The FDIC has issued a draft policy statement describing its “single point of entry” strategy for resolution of SIFIs under the orderly liquidation authority, which seeks to keep operating subsidiaries of a BHC open and impose losses on shareholders and creditors of the BHC in receivership according to their statutory order of priority.
+Holding company as a source of strength.
+JPMorgan Chase & Co. is required to serve as a source of financial strength for its depository institution subsidiaries and to commit resources to support those subsidiaries, including when directed to do so by the Federal Reserve.
+Regulation of acquisitions
+. Acquisitions by BHCs and their banks are subject to requirements, limitations and prohibitions established by law and by the Federal Reserve and the OCC. For example, FHCs and BHCs are required to obtain the approval of the Federal Reserve before they acquire more than 5% of the voting shares of an unaffiliated bank. In addition, acquisitions by financial companies are generally prohibited if, as a result of the acquisition, the total liabilities of the financial company would exceed 10% of the total liabilities of all financial companies, as determined under Federal Reserve regulations. Furthermore, for certain acquisitions, the Firm must provide written notice to the Federal Reserve prior to acquiring direct or indirect ownership or control of any voting shares of any company with over $10 billion in assets that is engaged in activities that are “financial in nature.” Moreover, while FHCs may engage in a broader range of activities (including acquisitions) than BHCs, the Federal Reserve has the authority to limit an FHC’s ability to conduct otherwise permissible acquisitions if the FHC or any of its depository institution subsidiaries ceases to meet applicable eligibility requirements.
+Ongoing obligations
+. The Firm is subject to a Deferred Prosecution Agreement entered into with the Department of Justice on September 29, 2020, relating to precious metals and U.S. Treasuries markets investigations, as well as a cooperation obligation under a related order issued by the CFTC.
+Subsidiary banks:
+The activities of JPMorgan Chase Bank, N.A., the Firm’s principal subsidiary bank, are limited to those specifically authorized under the National Bank Act and related interpretations of the OCC. The OCC has authority to bring an enforcement action against JPMorgan Chase Bank, N.A.
+5
+Part I
+for unsafe or unsound banking practices, which could include limiting JPMorgan Chase Bank, N.A.’s ability to conduct otherwise permissible activities, or imposing corrective capital or managerial requirements on the bank.
+FDIC deposit insurance.
+The FDIC deposit insurance fund provides insurance coverage for certain deposits and is funded through assessments on banks, including JPMorgan Chase Bank, N.A. The FDIC is required to maintain a minimum reserve ratio, which measures the balance of reserves in the deposit insurance fund against an estimate of FDIC-insured deposits, of 1.35%. The reserve ratio is currently below the statutory minimum and, in October 2022, the FDIC adopted a final rule to raise bank assessments and accelerate the time by which the reserve ratio would meet the statutory minimum. As a result, the FDIC has adopted a restoration plan to bring the reserve ratio up to the required 1.35% by September 30, 2028, with a longer-term target of maintaining a reserve ratio of 2%.
+FDIC powers upon a bank insolvency.
+Upon any insolvency of JPMorgan Chase Bank, N.A., the FDIC could be appointed as conservator or receiver under the Federal Deposit Insurance Act. The FDIC has broad powers to transfer assets and liabilities without the approval of the institution’s creditors.
+Prompt corrective action.
+The Federal Deposit Insurance Corporation Improvement Act of 1991 requires the relevant federal banking regulator to take “prompt corrective action” with respect to a depository institution if that institution does not meet certain capital adequacy standards. The Federal Reserve is also authorized to take appropriate action against the parent BHC, such as JPMorgan Chase & Co., based on the undercapitalized status of any bank subsidiary. In certain instances, the BHC would be required to guarantee the performance of the capital restoration plan for its undercapitalized subsidiary.
+Heightened Supervisory Standards.
+In the U.S., the OCC has established guidelines setting forth heightened standards for large banks, including minimum standards for the design and implementation of a risk governance framework for banks. Under these standards, a bank’s risk governance framework must ensure that the bank’s risk profile is easily distinguished and separate from that of its parent BHC for risk management purposes. The bank’s board or risk committee is responsible for approving the bank’s risk governance framework, providing active oversight of the bank’s risk-taking activities, and holding management accountable for adhering to the risk governance framework.
+The Firm’s banking entities in the EU and the U.K. are subject to supervisory expectations published by the ECB and the PRA, respectively, addressing bank strategy, governance and risk management in the areas of climate change, operational resilience, reliance on IT systems and third-party services, and resilience from macro-financial and geopolitical shocks. Further, the EU requires that certain non-EU banking groups operating in the EU establish
+an intermediate parent undertaking (“IPU”) located in the EU or, with ECB approval, two IPUs if a single IPU would conflict with “home country” bank separation rules or impede resolvability. The Firm was granted approval by the ECB in May 2023 to have two IPUs, which will hold the Firm’s EU banks and broker-dealers.
+Restrictions on transactions with affiliates.
+JPMorgan Chase Bank, N.A. and its subsidiaries are subject to restrictions imposed by federal law on extensions of credit to, investments in stock or securities of, and derivatives, securities lending and certain other transactions with, JPMorgan Chase & Co. and certain other affiliates. These restrictions prevent JPMorgan Chase & Co. and other affiliates from borrowing from JPMorgan Chase Bank, N.A. and its subsidiaries unless the loans are secured in specified amounts and comply with certain other requirements.
+Dividend restrictions.
+Federal law imposes limitations on the payment of dividends by national banks, such as JPMorgan Chase Bank, N.A. Refer to Note 26 for the amount of dividends that JPMorgan Chase Bank, N.A. could pay, at January 1, 2024, to JPMorgan Chase without the approval of the banking regulators. The OCC and the Federal Reserve also have authority to prohibit or limit the payment of dividends of a bank subsidiary that they supervise if, in the banking regulator’s opinion, payment of a dividend would constitute an unsafe or unsound practice in light of the financial condition of the bank.
+Depositor preference.
+Under federal law, the claims of a receiver of an insured depositary institution (“IDI”) for administrative expense and the claims of holders of U.S. deposit liabilities (including the FDIC and deposits in non-U.S. branches that are dually payable in the U.S. and in a non-U.S. branch) have priority over the claims of other unsecured creditors of the institution, including depositors in non-U.S. branches and public noteholders.
+Consumer supervision and regulation.
+JPMorgan Chase and JPMorgan Chase Bank, N.A. are subject to supervision and regulation in the U.S. by the Consumer Financial Protection Bureau (“CFPB”) with respect to federal consumer protection laws, including laws relating to fair lending and the prohibition of unfair, deceptive or abusive acts or practices in connection with the offer, sale or provision of consumer financial products and services. The CFPB also has jurisdiction over small business lending activities with respect to fair lending and the Equal Credit Opportunity Act. As part of its regulatory oversight, the CFPB has authority to take enforcement actions against firms that offer certain products and services to consumers using practices that are deemed to be unfair, deceptive or abusive. In February 2023, the CFPB proposed a rule that would significantly reduce and limit the late payment fees that credit card issuers, including the Firm, would be permitted to charge to customers. In January 2024, the CFPB proposed a rule that could significantly restrict bank overdraft fees for certain insured depository institutions, including the Firm. The proposal would impose certain requirements on overdraft
+6
+protections, similar to those that apply to credit cards, unless the financial institution prices the overdraft fee at the institution’s cost to provide the product or at a benchmark determined by the CFPB
+. In October 2023, the Federal Reserve Board proposed to lower the maximum interchange fee that large debit card issuers, including the Firm, would be permitted to receive for a debit card transaction. The proposal would also establish a process for automatically publishing an updated maximum fee amount every other year going forward.
+The Firm’s consumer activities are also subject to regulation under state statutes which are enforced by the Attorney General or empowered agency of each state.
+In the U.K., the Firm operates a retail bank through J.P. Morgan Europe Limited (“JPMEL”) and provides retail investment management services through Nutmeg Saving and Investment Limited (“Nutmeg”). JPMEL is regulated by the PRA, and both JPMEL and Nutmeg are regulated by the FCA with respect to their conduct of financial services in the U.K., including obligations relating to the fair treatment of customers. JPMEL is also regulated by the U.K. Payment Systems Regulator with respect to its operation and use of payment systems. In addition, the retail businesses of JPMEL and Nutmeg are subject to U.K. consumer-protection legislation. The Consumer Duty in the U.K. became effective in July 2023 for U.K.-regulated financial service providers, and encompasses requirements on the types of products and services that should be offered to consumers, how to balance value and pricing for consumers as well as how to promote good consumer understanding and post-sale support to consumers.
+Securities and broker-dealer regulation:
+The Firm conducts securities underwriting, dealing and brokerage activities in the U.S. through J.P. Morgan Securities LLC and other non-bank broker-dealer subsidiaries, all of which are subject to regulations of the SEC, FINRA and the New York Stock Exchange, among others. The Firm conducts similar securities activities outside the U.S. subject to local regulatory requirements. In the U.K., those activities are primarily conducted by J.P. Morgan Securities plc and in the EU, those activities are primarily conducted by JPMSE. Broker-dealers are subject to laws and regulations covering all aspects of the securities business, including sales and trading practices, securities offerings, publication of research reports, use of customer funds, the financing of client purchases, capital structure, record-keeping and retention, and the conduct of their directors, officers and employees. Refer to Broker-dealer regulatory capital on page 101 for information concerning the capital of J.P. Morgan Securities LLC and J.P. Morgan Securities plc. In addition, the Firm's sales and trading activities, which are conducted through both bank and non-bank subsidiaries, are subject to laws and regulations relating to market conduct, including prohibitions on manipulative or anti-competitive practices.
+Investment management regulation:
+The Firm’s asset and wealth management businesses are subject to significant regulation in jurisdictions around the world relating to, among other things, the safeguarding and management of client assets, offerings of funds and marketing activities. Certain of the Firm’s subsidiaries are registered with, and subject to oversight by, the SEC as investment advisers and broker-dealers. The Firm’s registered investment advisers in the U.S. are subject to the fiduciary and other obligations imposed under the Investment Advisers Act of 1940 and applicable state and federal law. The Firm’s bank fiduciary activities are subject to supervision by the OCC.
+The Firm’s asset and wealth management businesses continue to be subject to ongoing rule-making and implementation of new regulations and other guidance, including by the SEC and certain U.S. states with respect to enhanced standards of conduct and conflicts of interest. In October 2023, the Department of Labor (“DOL”) proposed a new “fiduciary” rule that could significantly expand the scope for defining who can be deemed investment advice fiduciaries for purposes of retirement plans and individual retirement accounts (“IRAs”) under the Employee Retirement Income Security Act of 1974, as amended. Among the most significant impacts of the proposed rule and related amendments to prohibited transaction exemptions would be the impact on the fee and compensation practices at financial institutions that offer investment recommendations to retirement clients, including in the context of rollovers from an employer plan to an IRA.
+Derivatives regulation:
+The Firm is subject to comprehensive regulation of its derivatives businesses. In the U.S., JPMorgan Chase Bank, N.A., J.P. Morgan Securities LLC and J.P. Morgan Securities plc are registered with the CFTC as “swap dealers”. In addition, JPMorgan Chase Bank, N.A. and J.P. Morgan Securities LLC are registered with the SEC as “security-based swap dealers”. As a result, these entities are subject to a comprehensive regulatory framework applicable to their swap or security-based swap activities, including capital requirements, rules requiring the collateralization of uncleared swaps and security-based swaps, rules regarding segregation of counterparty collateral, business conduct and documentation standards, rules requiring the central clearing of standardized over-the-counter (“OTC”) derivatives, requirements that certain standardized OTC swaps be traded on regulated trading venues, record-keeping and reporting obligations, and anti-fraud and anti-manipulation requirements. Similar requirements have also been established in the European Union (“EU”) under the European Market Infrastructure Regulation (“EMIR”) and the Markets in Financial Instruments Directive (“MiFID II”), as well as in the U.K. and other jurisdictions around the world.
+7
+Part I
+J.P. Morgan Securities LLC is also registered with the CFTC as a futures commission merchant and is a member of the National Futures Association.
+Data, privacy and cybersecurity regulation:
+The Firm and its subsidiaries are subject to laws, rules and regulations globally concerning data, including data protection, consumer protection, privacy, cybersecurity and related matters. These laws, rules and regulations are constantly evolving, subject to interpretation, remain a focus of regulators globally, may be enforced by private parties or government bodies, and continue to have a significant impact on all of the Firm’s businesses and operations.
+The Bank Secrecy Act and Economic Sanctions:
+The Bank Secrecy Act (“BSA”) requires all financial institutions, including banks and securities broker-dealers, to establish a risk-based system of internal controls reasonably designed to prevent money laundering and the financing of terrorism. The BSA includes a variety of record-keeping and reporting requirements, as well as due diligence/know-your-customer documentation requirements. The Firm is also subject to the regulations and economic sanctions programs administered and enforced by the U.S. Treasury’s Office of Foreign Assets Control (“OFAC”) and EU and U.K. authorities which target entities or individuals that are, or are located in countries that are, involved in activities including terrorism, hostilities, embezzlement or human rights violations. The Firm is also subject to economic sanctions laws, rules and regulations in other jurisdictions in which it operates, including those that conflict with or prohibit a firm such as JPMorgan Chase from complying with certain laws, rules and regulations to which it is otherwise subject.
+Anti-Corruption:
+The Firm is subject to laws and regulations relating to corrupt and illegal payments to government officials and others in the jurisdictions in which it operates, including the U.S. Foreign Corrupt Practices Act and the U.K. Bribery Act.
+Compensation practices:
+The Firm’s compensation practices are subject to oversight by the Federal Reserve, as well as other agencies. The Federal Reserve has jointly issued guidance with the FDIC and the OCC that is designed to ensure that incentive compensation paid by banking organizations does not encourage imprudent risk-taking that threatens the organizations’ safety and soundness. The Financial Stability Board (“FSB”) has also established standards covering compensation principles for banks. The Firm’s compensation practices are also subject to regulation and oversight by regulators in other jurisdictions, notably the Fifth Capital Requirements Directive (“CRD V”), as implemented in the EU and as largely adopted in the U.K, which includes compensation-related provisions. The European Banking Authority has instituted guidelines on compensation policies including under CRD V which in certain countries (such as Germany) are implemented or
+supplemented by local regulations or guidelines. The U.K. regulators have also instituted regulations and guidelines on compensation policies, which diverge in certain areas from EU rules. The Firm expects that the implementation of regulatory guidelines regarding compensation in the U.S. and other countries will continue to evolve, and may affect the manner in which the Firm structures its compensation programs and practices.
+Sustainability:
+Policymakers in the U.K. and the EU have continued to implement and enhance sustainability-related initiatives and disclosure requirements. The Corporate Sustainability Reporting Directive (“CSRD”) will replace and significantly expand the scope and content of certain EU ESG reporting requirements, with phased-in requirements starting with fiscal years in 2024. In addition, in December 2023, the EU reached agreement on the Corporate Sustainability Due Diligence Directive (“CSDDD”). The CSDDD sets mandatory due diligence obligations for companies to address actual and potential human rights violations and environmental adverse impacts stemming from their own operations and business relationships, including the activities of certain companies with which they have established business relationships and also requires the adoption of company-specific climate-related transition plans. Both the CSRD and CSDDD will impact certain of the Firm’s EU and non-EU entities.
+8
