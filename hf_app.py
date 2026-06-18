@@ -7,9 +7,22 @@ as the standalone API implementation.
 import os
 import json
 import streamlit as st
-from generator import answer
 
+# set_page_config must be the FIRST Streamlit command in the script.
 st.set_page_config(page_title="10-K RAG", page_icon="📑", layout="wide")
+
+# Build the index on first launch if it is not present (HF Spaces
+# does not store the prebuilt binary; it is regenerated from chunks.jsonl).
+@st.cache_resource
+def _ensure_index():
+    if not os.path.exists("data/index.faiss"):
+        import build_index
+        build_index.main()
+    return True
+
+_ensure_index()
+
+from generator import answer
 
 st.title("📑 SEC 10-K RAG with Evaluation")
 st.caption(

@@ -3,6 +3,9 @@
 Exposes retrieve(query, k) as a clean, tool-shaped function so it can drop
 into an agent's ReAct tool registry unchanged (Project 3 bridge). The
 RETRIEVE_TOOL_SCHEMA below is the tool-calling spec to register with the agent.
+
+Index and metadata are loaded lazily on first retrieve() call (not at import),
+so importing this module never requires the index to exist yet.
 """
 import os
 import json
@@ -17,14 +20,25 @@ INDEX_PATH = "data/index.faiss"
 META_PATH = "data/chunks_meta.json"
 EMB_MODEL = "text-embedding-3-small"
 
-# Loaded once at import, reused across calls (efficient for API + eval loops)
-_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-_index = faiss.read_index(INDEX_PATH)
-with open(META_PATH, encoding="utf-8") as f:
-    _meta = json.load(f)
+_client = None
+_index = None
+_meta = None
+
+
+def _load():
+    """Lazy-load the OpenAI client, FAISS index, and metadata on first use."""
+    global _client, _index, _meta
+    if _client is None:
+        _client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+    if _index is None:
+        _index = faiss.read_index(INDEX_PATH)
+    if _meta is None:
+        with open(META_PATH, encoding="utf-8") as f:
+            _meta = json.load(f)
 
 
 def _embed(text):
+    _load()
     resp = _client.embeddings.create(model=EMB_MODEL, input=[text])
     v = np.array([resp.data[0].embedding], dtype="float32")
     n = np.linalg.norm(v, axis=1, keepdims=True)
@@ -38,6 +52,7 @@ def retrieve(query: str, k: int = 5) -> list[dict]:
     Returns a list of dicts, each with chunk metadata plus a similarity
     'score' (cosine, higher = more relevant), in descending score order.
     """
+    _load()
     qvec = _embed(query)
     scores, idxs = _index.search(qvec, k)
     results = []
@@ -67,8 +82,6 @@ def format_context(chunks: list[dict]) -> str:
     return "\n\n---\n\n".join(blocks)
 
 
-# Tool-calling schema — register this in the agent's ReAct tool registry
-# (Project 3 bridge). Mirrors the OpenAI/Groq function-tool format.
 RETRIEVE_TOOL_SCHEMA = {
     "type": "function",
     "function": {
