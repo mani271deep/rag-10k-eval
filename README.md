@@ -8,7 +8,7 @@ sdk_version: 1.40.2
 app_file: hf_app.py
 pinned: false
 license: mit
-short_description: Retrieval-augmented Q&A over SEC 10-K filings with a rigorous retrieval + answer-quality evaluation harness.
+short_description: RAG over SEC 10-K filings with evaluation
 ---
 
 # SEC 10-K RAG with Evaluation
