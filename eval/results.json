@@ -1,0 +1,268 @@
+[
+  {
+    "id": "sh01",
+    "type": "single_hop",
+    "question": "What operating system is Apple's iPhone based on?",
+    "answerable": true,
+    "system_answer": "Apple's iPhone is based on its iOS operating system (Apple | Item 1 - Business).",
+    "retrieved": [
+      "apple/item1_business",
+      "apple/item7_mdna",
+      "apple/item7_mdna",
+      "apple/item1_business",
+      "apple/item1a_riskfactors"
+    ],
+    "hit@k": 1,
+    "reciprocal_rank": 1.0,
+    "faithfulness": 5,
+    "correctness": 5,
+    "judge_reason": "brief"
+  },
+  {
+    "id": "sh02",
+    "type": "single_hop",
+    "question": "What are Apple's reportable segments or main product categories?",
+    "answerable": true,
+    "system_answer": "Apple's reportable segments consist of the Americas, Europe, Greater China, Japan, and Rest of Asia Pacific (Apple | Item 1 - Business). The main product categories include iPhone, Mac, iPad, Wearables, Home and Accessories, and Services (Apple | Item 1 - Business).",
+    "retrieved": [
+      "apple/item1_business",
+      "apple/item7_mdna",
+      "apple/item1_business",
+      "apple/item7_mdna",
+      "apple/item7_mdna"
+    ],
+    "hit@k": 1,
+    "reciprocal_rank": 1.0,
+    "faithfulness": 5,
+    "correctness": 5,
+    "judge_reason": "brief"
+  },
+  {
+    "id": "sh03",
+    "type": "single_hop",
+    "question": "What are Walmart's three reportable segments?",
+    "answerable": true,
+    "system_answer": "Walmart's three reportable segments are Walmart U.S., Walmart International, and Sam's Club (Walmart | Item 1 - Business).",
+    "retrieved": [
+      "walmart/item1_business",
+      "walmart/item1_business",
+      "walmart/item1_business",
+      "walmart/item1_business",
+      "walmart/item7_mdna"
+    ],
+    "hit@k": 1,
+    "reciprocal_rank": 1.0,
+    "faithfulness": 5,
+    "correctness": 5,
+    "judge_reason": "brief"
+  },
+  {
+    "id": "sh04",
+    "type": "single_hop",
+    "question": "What is Walmart's everyday low price (EDLP) pricing philosophy?",
+    "answerable": true,
+    "system_answer": "Walmart's everyday low price (EDLP) pricing philosophy is to price items at low prices every day so that customers trust that the prices will not change under frequent promotional activity. This approach is a cornerstone of Walmart's business strategy, aimed at earning customer trust by providing a broad assortment of quality merchandise and services at these everyday low prices (Walmart | Item 1 - Business | walmart_item1_business_000).",
+    "retrieved": [
+      "walmart/item1_business",
+      "walmart/item1_business",
+      "walmart/item1_business",
+      "walmart/item1_business",
+      "walmart/item1_business"
+    ],
+    "hit@k": 1,
+    "reciprocal_rank": 1.0,
+    "faithfulness": 5,
+    "correctness": 5,
+    "judge_reason": "brief"
+  },
+  {
+    "id": "sh05",
+    "type": "single_hop",
+    "question": "What was Walmart's total revenue in fiscal 2023?",
+    "answerable": true,
+    "system_answer": "Walmart's total revenues for fiscal 2023 increased by $38.5 billion or 6.7%, amounting to $605,881 million (Walmart | Item 7 - MD&A | walmart_item7_mdna_005).",
+    "retrieved": [
+      "walmart/item7_mdna",
+      "walmart/item7_mdna",
+      "walmart/item7_mdna",
+      "walmart/item7_mdna",
+      "walmart/item7_mdna"
+    ],
+    "hit@k": 1,
+    "reciprocal_rank": 1.0,
+    "faithfulness": 1,
+    "correctness": 1,
+    "judge_reason": "The system's answer is not grounded in the retrieved context, as the specific figure of $605,881 million is not present in the provided context. Additionally, the answer does not match the reference answer, which states that Walmart's total revenue for fiscal 2023 was $611.3 billion."
+  },
+  {
+    "id": "sh06",
+    "type": "single_hop",
+    "question": "What is JPMorgan Chase's principal bank subsidiary?",
+    "answerable": true,
+    "system_answer": "JPMorgan Chase's principal bank subsidiary is JPMorgan Chase Bank, National Association (“JPMorgan Chase Bank, N.A.”) (Jpmorgan | Item 1 - Business).",
+    "retrieved": [
+      "jpmorgan/item1_business",
+      "jpmorgan/item7_mdna",
+      "jpmorgan/item1_business",
+      "jpmorgan/item1_business",
+      "jpmorgan/item1a_riskfactors"
+    ],
+    "hit@k": 1,
+    "reciprocal_rank": 1.0,
+    "faithfulness": 5,
+    "correctness": 5,
+    "judge_reason": "The system's answer is fully grounded in the retrieved context and matches the reference answer's key facts."
+  },
+  {
+    "id": "sh07",
+    "type": "single_hop",
+    "question": "What are the main lines of business JPMorgan operates in?",
+    "answerable": true,
+    "system_answer": "JPMorgan operates in four major reportable business segments: Consumer & Community Banking (CCB), Corporate & Investment Bank (CIB), Commercial Banking (CB), and Asset & Wealth Management (AWM) (Jpmorgan | Item 1 - Business | jpmorgan_item1_business_001).",
+    "retrieved": [
+      "jpmorgan/item1_business",
+      "jpmorgan/item1_business",
+      "jpmorgan/item7_mdna",
+      "jpmorgan/item1_business",
+      "jpmorgan/item7_mdna"
+    ],
+    "hit@k": 1,
+    "reciprocal_rank": 1.0,
+    "faithfulness": 5,
+    "correctness": 4,
+    "judge_reason": "The system's answer is fully grounded in the retrieved context, accurately reflecting the business segments mentioned. However, it does not explicitly mention 'financial transaction processing,' which is part of the reference answer's key facts."
+  },
+  {
+    "id": "sh08",
+    "type": "single_hop",
+    "question": "How does Apple rely on outsourcing partners for manufacturing?",
+    "answerable": true,
+    "system_answer": "Apple relies on outsourcing partners for manufacturing by depending on them for the supply and manufacture of many components and for the final assembly of substantially all of its hardware products. The majority of this manufacturing is performed by partners located primarily in China, India, Japan, South Korea, Taiwan, and Vietnam. The Company has a significant concentration of manufacturing with a small number of these partners, often in single locations, which introduces risks and uncertainties. Any failure of these partners to perform can negatively impact the cost or supply of components or finished goods (Apple | Item 1A - Risk Factors). Additionally, the Company has invested in manufacturing process equipment held at these partners and has made prepayments associated with long-term supply agreements, which helps ensure the supply of components and finished goods (Apple | Item 7 - MD&A).",
+    "retrieved": [
+      "apple/item1a_riskfactors",
+      "apple/item1_business",
+      "apple/item7_mdna",
+      "apple/item1_business",
+      "apple/item1a_riskfactors"
+    ],
+    "hit@k": 1,
+    "reciprocal_rank": 1.0,
+    "faithfulness": 5,
+    "correctness": 5,
+    "judge_reason": "brief"
+  },
+  {
+    "id": "cd01",
+    "type": "cross_company",
+    "question": "Which companies identify supply chain or supplier-related risks in their filings?",
+    "answerable": true,
+    "system_answer": "Both Apple and Walmart identify supply chain or supplier-related risks in their filings.\n\nApple states that it depends on outsourcing partners for manufacturing and logistics, which can lead to risks related to quality, quantity, and flexibility in response to changing conditions (Apple | Item 1A - Risk Factors). Additionally, Apple mentions that any failure of these partners to perform can negatively impact costs or supply (Apple | Item 1A - Risk Factors).\n\nWalmart discusses its global supply chain and the importance of suppliers in determining product availability and pricing. It highlights the challenges of finding qualified suppliers who meet its standards and the risks associated with sourcing products from domestic and international suppliers (Walmart | Item 1 - Business; Walmart | Item 1A - Risk Factors).",
+    "retrieved": [
+      "apple/item1a_riskfactors",
+      "walmart/item1_business",
+      "walmart/item1a_riskfactors",
+      "apple/item1a_riskfactors",
+      "apple/item1a_riskfactors"
+    ],
+    "hit@k": 1,
+    "reciprocal_rank": 1.0,
+    "faithfulness": 4,
+    "correctness": 4,
+    "judge_reason": "brief"
+  },
+  {
+    "id": "cd02",
+    "type": "cross_company",
+    "question": "Which companies mention climate change as a risk factor?",
+    "answerable": true,
+    "system_answer": "Both JPMorgan and Walmart mention climate change as a risk factor. JPMorgan states that climate change could adversely affect its business and operations, both directly and through impacts on its clients and customers (Jpmorgan | Item 1A - Risk Factors | jpmorgan_item1a_riskfactors_039). Walmart discusses the long-term impacts of climate change, including physical and transition risks, and how these could materially adversely affect its financial performance (Walmart | Item 1A - Risk Factors | walmart_item1a_riskfactors_006).",
+    "retrieved": [
+      "jpmorgan/item1a_riskfactors",
+      "walmart/item1a_riskfactors",
+      "jpmorgan/item1a_riskfactors",
+      "apple/item1a_riskfactors",
+      "apple/item1a_riskfactors"
+    ],
+    "hit@k": 1,
+    "reciprocal_rank": 1.0,
+    "faithfulness": 5,
+    "correctness": 3,
+    "judge_reason": "The system's answer is fully grounded in the retrieved context, as it accurately reflects the information about JPMorgan and Walmart mentioning climate change as a risk factor. However, it is not fully correct because it omits Apple, which is included in the reference answer."
+  },
+  {
+    "id": "cd03",
+    "type": "cross_company",
+    "question": "How do pandemics or global health events appear as risks across these companies?",
+    "answerable": true,
+    "system_answer": "Pandemics or global health events are identified as significant risks for both Walmart and Apple. \n\nWalmart notes that global or regional health pandemics, including COVID-19, could negatively impact its business operations, demand for products and services, supply chain operations, and overall financial performance. The company highlights the uncertainty surrounding the emergence and duration of such pandemics, which could lead to fluctuations in customer demand and challenges in inventory management (Walmart | Item 1A - Risk Factors | walmart_item1a_riskfactors_004).\n\nSimilarly, Apple acknowledges that major public health issues, including pandemics like COVID-19, can adversely affect its business due to their impact on the global economy, demand for consumer products, and disruptions in operations and supply chains. Apple emphasizes that such events can lead to significant delays and inefficiencies in manufacturing and delivery, as well as interruptions in service offerings (Apple | Item 1A - Risk Factors | apple_item1a_riskfactors_002). \n\nBoth companies recognize the potential for pandemics to disrupt their operations and negatively affect their financial performance.",
+    "retrieved": [
+      "walmart/item1a_riskfactors",
+      "apple/item1a_riskfactors",
+      "walmart/item1a_riskfactors",
+      "apple/item1a_riskfactors",
+      "apple/item1a_riskfactors"
+    ],
+    "hit@k": 1,
+    "reciprocal_rank": 1.0,
+    "faithfulness": 5,
+    "correctness": 3,
+    "judge_reason": "The system's answer is fully grounded in the retrieved context for Walmart and Apple, hence faithfulness is 5. However, it misses mentioning JPMorgan, which is part of the reference answer, so correctness is 3."
+  },
+  {
+    "id": "un01",
+    "type": "unanswerable",
+    "question": "What is Apple's strategy for its cryptocurrency mining operations?",
+    "answerable": false,
+    "system_answer": "I don't have enough information in the provided 10-K excerpts to answer this.",
+    "retrieved": [
+      "apple/item1_business",
+      "apple/item7_mdna",
+      "apple/item1_business",
+      "apple/item1_business",
+      "apple/item7_mdna"
+    ],
+    "hit@k": null,
+    "reciprocal_rank": null,
+    "faithfulness": 5,
+    "correctness": 5,
+    "judge_reason": "The system correctly abstained from answering as the context did not provide information about Apple's cryptocurrency mining operations, matching the reference answer."
+  },
+  {
+    "id": "un02",
+    "type": "unanswerable",
+    "question": "How many electric vehicles did Walmart manufacture in 2023?",
+    "answerable": false,
+    "system_answer": "I don't have enough information in the provided 10-K excerpts to answer this.",
+    "retrieved": [
+      "walmart/item1_business",
+      "walmart/item7_mdna",
+      "walmart/item1_business",
+      "walmart/item1_business",
+      "walmart/item7_mdna"
+    ],
+    "hit@k": null,
+    "reciprocal_rank": null,
+    "faithfulness": 5,
+    "correctness": 5,
+    "judge_reason": "The system correctly abstained from answering as the context did not provide information about Walmart manufacturing electric vehicles, matching the reference answer."
+  },
+  {
+    "id": "un03",
+    "type": "unanswerable",
+    "question": "What is JPMorgan's CEO's annual salary?",
+    "answerable": false,
+    "system_answer": "I don't have enough information in the provided 10-K excerpts to answer this.",
+    "retrieved": [
+      "jpmorgan/item7_mdna",
+      "jpmorgan/item1_business",
+      "jpmorgan/item7_mdna",
+      "jpmorgan/item7_mdna",
+      "jpmorgan/item7_mdna"
+    ],
+    "hit@k": null,
+    "reciprocal_rank": null,
+    "faithfulness": 5,
+    "correctness": 5,
+    "judge_reason": "The system correctly abstained from answering as the retrieved context does not contain information about JPMorgan's CEO's annual salary, matching the reference answer."
+  }
+]
